@@ -1,1 +1,1 @@
-*This project is about vagrant and virtual machine*
+This is all about how to use vagrant
